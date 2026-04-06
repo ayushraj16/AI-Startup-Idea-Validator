@@ -3,7 +3,7 @@
 A full-stack MVP that allows users to submit startup ideas and instantly receive a comprehensive, AI-generated validation report. Built within a 24-hour hackathon timeframe.
 
 ## 🔗 Live Demo
-**[Insert your Vercel/Netlify Live Link Here]**
+**(https://ai-startup-idea-validator-l3xl3jjhx-ayushraj16s-projects.vercel.app/)**
 
 ---
 
